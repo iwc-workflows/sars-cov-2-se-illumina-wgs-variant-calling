@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-03-06T09:52:13.702938",
+            "datePublished": "2025-03-19T19:15:28.157267",
             "hasPart": [
                 {
                     "@id": "se-wgs-variation.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/sars-cov-2-se-illumina-wgs-variant-calling",
-            "version": "0.1.5"
+            "version": "0.1.6"
         },
         {
             "@id": "#galaxy",
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.21"
+            "engineVersion": ">=0.75.27"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
