@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-18T07:51:32.866144",
+            "datePublished": "2026-10-19T11:44:43.781023",
             "hasPart": [
                 {
                     "@id": "se-wgs-variation.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/sars-cov-2-se-illumina-wgs-variant-calling",
-            "version": "0.1.7"
+            "version": "0.1.8"
         },
         {
             "@id": "#galaxy",
